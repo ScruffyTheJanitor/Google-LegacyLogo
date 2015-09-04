@@ -1,0 +1,12 @@
+{
+  "name": "LegacyLogo",
+  "author": "Frank Paschen",
+  "description": "Do you fear change? Restore the classic Google logo with this sweet extension!",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  }
+}
